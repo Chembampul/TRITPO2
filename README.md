@@ -1,17 +1,17 @@
 # Требования к проекту 
 # Содержание 
 [1 Введение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#1-введение)  
-[2 Требования пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#2-требования-пользователя)  
-[2.1 Программные интерфейсы](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#21-программные-интерфейсы)  
-[2.2 Интерфейс пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#22-интерфейс-пользователя)  
-[2.3 Характеристики пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#23-характеристики-пользователей)  
-[2.4 Предположения и зависимости](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#24-предположения-и-зависимости)  
-[3 Системные требования](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#3-системные-требования)  
-[3.1 Функциональные требования](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#31-функциональные-требования)  
-[3.2 Нефункциональные требования](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#32-нефункциональные-требования)  
-[3.2.1 Атрибуты качества](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#321-атрибуты-качества)  
-[3.2.2 Требования к безопасности](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#322-требования-к-безопасности)  
-[3.2.3 Ограничения](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#323-ограничения)
+[2 Требования пользователя](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#2-требования-пользователя)  
+[2.1 Программные интерфейсы](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#21-программные-интерфейсы)  
+[2.2 Интерфейс пользователя](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#22-интерфейс-пользователя)  
+[2.3 Характеристики пользователя](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#23-характеристики-пользователей)  
+[2.4 Предположения и зависимости](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#24-предположения-и-зависимости)  
+[3 Системные требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#3-системные-требования)  
+[3.1 Функциональные требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#31-функциональные-требования)  
+[3.2 Нефункциональные требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#32-нефункциональные-требования)  
+[3.2.1 Атрибуты качества](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#321-атрибуты-качества)  
+[3.2.2 Требования к безопасности](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#322-требования-к-безопасности)  
+[3.2.3 Ограничения](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#323-ограничения)
 ## 1 Введение
 Целью проекта является воздание Web приложения для обеспечения возможности поиска и бронирования арендного жилья в других странах в период туризма. Туристы и владельцы сдаваемой в аренду недвижимости являются пользователями приложения. Арендодатель имеет возможность выставить анкету о своей недвижимости, дать её краткое описание, приложить фотографии и т. д. Арендатор имеет возможность забронировать жильё, дать рейтинговую оценку как самому жилью, так и арендодателю, оставить отзыв, добавить анкету в "Избранное", отсортировать список анкет по различным параметрам(Цена, жилая площадь, логистическая доступность и т. п.). Перечень доступного жилья реализован через базу данных.
 ## 2 Требования пользователя
