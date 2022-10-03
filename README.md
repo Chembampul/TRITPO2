@@ -1,6 +1,6 @@
 # Требования к проекту 
 # Содержание 
-[1 Введение](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#1-введение)  
+[1 Введение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#1-введение)  
 [2 Требования пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#2-требования-пользователя)  
 [2.1 Программные интерфейсы](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#21-программные-интерфейсы)  
 [2.2 Интерфейс пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#22-интерфейс-пользователя)  
