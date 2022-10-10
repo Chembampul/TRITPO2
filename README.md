@@ -1,7 +1,7 @@
 # Требования к проекту 
 # Содержание 
 [1 Введение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#1-введение)  
-[1.1 Назначение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md##11-назначение) 
+[1.1 Назначение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#11-назначение) 
 [1.2 Бизнес-требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#12-бизнес-требования) 
 [1.2.1 Исходные данные](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#121-исходные-данные)  
 [1.2.1 Возможности бизнеса](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#122-возможности-бизнеса)  
