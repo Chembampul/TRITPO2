@@ -15,7 +15,7 @@
 [2.4 Предположения и зависимости](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#24-предположения-и-зависимости)  
 [3 Системные требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#3-системные-требования)  
 [3.1 Функциональные требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#31-функциональные-требования)
-[3.1.1 Основные функции](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#311-основные функции) 
+[3.1.1 Основные функции](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#311-основные-функции) 
 [3.1.1.1 Вход пользователя в приложение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#3111-вход-пользователя-в-приложение) 
 [3.1.1.2 Просмотр и редактирование профиля активного пользователя](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#3112-просмотр-и-редактирование-профиля-активного-пользователя) 
 [3.1.1.3 Просмотр и комментирование анкет](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#3113-просмотр-и-комментирование-анкет) 
