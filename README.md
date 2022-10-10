@@ -3,8 +3,8 @@
 [1 Введение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#1-введение)  
 [1.1 Назначение](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md##11-назначение)<br />
 [1.2 Бизнес-требования](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md##12-бизнес-требования)<br />
-[1.2.1 Исходные данные](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###121-исходные-данные)<br />  
-[1.2.1 Возможности бизнеса](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###122-возможности-бизнеса)<br />  
+[1.2.1 Исходные данные](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###121-исходные-данные)
+[1.2.1 Возможности бизнеса](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###122-возможности-бизнеса) 
 [1.2.1 Границы проекта](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###123-границы-проекта)  
 [1.3 Аналоги](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md#13-аналоги) 
 [1.3.1 Отличия от аналогов](https://github.com/Chembampul/TRITPO_LAB_2/blob/main/README.md###131-отличия-от-аналогов) 
